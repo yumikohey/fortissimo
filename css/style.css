@@ -15,6 +15,9 @@
 	border-top: 5px solid rgba(251, 191, 20, 0.8);
 }
 
+.top-success{
+	border-top: 5px solid rgba(50, 173, 50, 0.8);
+}
 .little_donuts{
 	padding: 0 10px;
 	background-color: rgba(204, 204, 204,0.1);
